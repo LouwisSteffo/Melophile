@@ -1,6 +1,5 @@
 import streamlit as st
 st.set_page_config(page_title="Melophile", layout="wide" , page_icon="🎵")
-import spotipy as sp
 import pandas as pd
 from sklearn.neighbors import NearestNeighbors
 import plotly.express as px
