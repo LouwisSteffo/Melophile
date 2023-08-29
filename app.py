@@ -1,7 +1,3 @@
-
-#This is a song recommendation app where you will get songs as per your favourite genre
-# I will give the code in the description section
-
 import streamlit as st
 st.set_page_config(page_title="Melophile", layout="wide" , page_icon="🎵")
 import spotipy as sp
